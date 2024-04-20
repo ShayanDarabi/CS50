@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: The best-case scenario is the sorted file. The omega for the bubble sort is "n". So when we double the input size, the taken time must be doubled too and we eventually see this behavior.
+
+sort2 uses: merge sort
+
+How do you know?: In both worst and best-case scenarios, the time increases slowly.
+
+sort3 uses: selection sort
+
+How do you know?: In the best-case scenario, we are encountered with a quadratic behavior that the time rockets when the input size is incremented.
